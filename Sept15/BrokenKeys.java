@@ -1,3 +1,6 @@
+import java.util.Set;
+import java.util.HashSet;
+
 public class BrokenKeys {
     public int canBeTypedWords(String text, String brokenLetters) {
         int ans = 0;
